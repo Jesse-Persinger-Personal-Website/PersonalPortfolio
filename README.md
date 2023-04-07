@@ -1,2 +1,8 @@
 # PersonalPortfolio
 Resume Website
+
+
+##Tecnology
+-
+-
+
